@@ -314,4 +314,7 @@
     <!-- Whether device supports in-display fingerprint -->
     <bool name="config_supportsUdfps">false</bool>
 
+    <!-- Enforce DisplayModeDirector to select user preferred resolution -->
+    <bool name="config_forceToUseSelectedResolution">false</bool>
+
 </resources>
